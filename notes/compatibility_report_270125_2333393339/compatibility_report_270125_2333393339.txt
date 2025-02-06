@@ -1,0 +1,52 @@
+Converting GML script: /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/scripts/scr_make_array/scr_make_array.gml
+Converted description /// @description array(*args);/// @param *args
+
+GameMaker Studio 1 font texture has been backed up at /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/fonts/FnMainFont/FnMainFont.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/fonts/FnMainFontSmaller/FnMainFontSmaller.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/fonts/FnSmallFont/FnSmallFont.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/fonts/FnDescFont/FnDescFont.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/fonts/FnTitleFont/FnTitleFont.gms1.png
+Converting GML script: /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/objects/ObjCon/Create_0.gml
+Converted description /// @description  Core creation cod
+String not found: ConversionLog_ConvertedString 344 "%appdata%\BotCScripterRu  <= сохраняется сюда#кликните, чтобы скопировать путь" "%appdata%\\BotCScripterRu  <= сохраняется сюда#кликните, чтобы скопировать путь"
+String not found: ConversionLog_ConvertedString 345 "%appdata%\BotCScripterRu  <= saved here#click to copy directory" "%appdata%\\BotCScripterRu  <= saved here#click to copy directory"
+String not found: ConversionLog_ConvertedString 978 'Каждую ночь вы выбираете игрока и Доброго персонажа. Выбранный игрок должен спятить, что он - выбранный персонаж, иначе может быть казнён.' "Каждую ночь вы выбираете игрока и Доброго персонажа. Выбранный игрок должен спятить, что он - выбранный персонаж, иначе может быть казнён."
+String not found: ConversionLog_ConvertedString 980 'Each night, choose a player & a good character: they are "mad" they are this character tomorrow, or might be executed.' "Each night, choose a player & a good character: they are \"mad\" they are this character tomorrow, or might be executed."
+String not found: ConversionLog_ConvertedString 1086 'Если вы спятили по поводу того, что вы Посторонний, вас могут казнить.' "Если вы спятили по поводу того, что вы Посторонний, вас могут казнить."
+String not found: ConversionLog_ConvertedString 1088 'If you are "mad" about being an Outsider, you might be executed.' "If you are \"mad\" about being an Outsider, you might be executed."
+String not found: ConversionLog_ConvertedString 1544 'Каждую ночь Приспешники выбирают, кто из них нянчит Монстра Джуниора и "является Демоном". Игрок умирает каждую ночь*. [+1 Приспешник]' "Каждую ночь Приспешники выбирают, кто из них нянчит Монстра Джуниора и \"является Демоном\". Игрок умирает каждую ночь*. [+1 Приспешник]"
+String not found: ConversionLog_ConvertedString 1546 '"is the demon"' "\"is the demon\""
+String not found: ConversionLog_ConvertedString 1640 'В начале вы знаете 1 персонажа Горожанина, который есть в игре. Если вы "спятили", что вы - этот персонаж, то получите его способность, когда он умрёт.' "В начале вы знаете 1 персонажа Горожанина, который есть в игре. Если вы \"спятили\", что вы - этот персонаж, то получите его способность, когда он умрёт."
+
+Converting GML script: /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/objects/ObjCon/Alarm_1.gml
+String not found: ConversionLog_ConvertedString 16 '[' "["
+String not found: ConversionLog_ConvertedString 19 '[' "["
+String not found: ConversionLog_ConvertedString 20 ',' ","
+String not found: ConversionLog_ConvertedString 21 '{"id":"' "{\"id\":\""
+String not found: ConversionLog_ConvertedString 21 '"}' "\"}"
+String not found: ConversionLog_ConvertedString 25 '[' "["
+String not found: ConversionLog_ConvertedString 26 ',' ","
+String not found: ConversionLog_ConvertedString 27 '{"id":"' "{\"id\":\""
+String not found: ConversionLog_ConvertedString 27 '"}' "\"}"
+String not found: ConversionLog_ConvertedString 32 '[' "["
+String not found: ConversionLog_ConvertedString 33 ',' ","
+String not found: ConversionLog_ConvertedString 34 '{"id":"' "{\"id\":\""
+String not found: ConversionLog_ConvertedString 34 '"}' "\"}"
+String not found: ConversionLog_ConvertedString 37 ']' "]"
+
+Converting GML script: /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/objects/ObjCon/Step_0.gml
+String not found: ConversionLog_ConvertedString 15 '%appdata%\BotCScripterRu' "%appdata%\\BotCScripterRu"
+String not found: ConversionLog_ConvertedString 30 "\" "\\"
+String not found: ConversionLog_ConvertedString 32 "\" "\\"
+String not found: ConversionLog_ConvertedString 42 '"' "\""
+
+Converting GML script: /Users/alex_grim/Desktop/Distributives/Code/botcRuScripterUpdated/BotCScripterRu.project/conv/gmx/BotCScripterRu.project_1B23994C/objects/ObjCon/Draw_0.gml
+Converted builtin - line 124: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 125: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 124: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 125: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Game speed set to 30
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
