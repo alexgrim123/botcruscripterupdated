@@ -348,8 +348,8 @@ clear_all_filter_button[language.english] = "Clear filters"
 json_load_button[language.russian] = "ЗАГРУЗИТЬ JSON";
 json_load_button[language.english] = "LOAD JSON";
 
-copypaste_button[language.russian] = "%appdata%\\BotCScripterRu  <= сохраняется сюда#кликните, чтобы скопировать путь";
-copypaste_button[language.english] = "%appdata%\\BotCScripterRu  <= saved here#click to copy directory";
+copypaste_button[language.russian] = "%appdata%\\BotCScripterRu_project  <= сохраняется сюда#кликните, чтобы скопировать путь";
+copypaste_button[language.english] = "%appdata%\\BotCScripterRu_project  <= saved here#click to copy directory";
 
 help_full_text[language.russian] = "Открыть дополнительные фильтры: Пробел##На дополнительные фильтры можно нажимать ПКМ - это означает не включать в поиск##Чтобы получить распечатку способностей Сказок и Путников - ПКМ по ним в основных фильтрах##Чтобы собрать основные сценарии - ПКМ по их названиям в фильтрах##Если у иконки персонажа в основной области маленькая иконка в углу - у вас в сценарии будут правила Джина##Если выбирать Сказки и Путников - они будут добавлены как рекоммендованные в ночной порядок##ПКМ по экспериментальной категории - абсолютно случайный сценарий##Убрать задник: F5##ПОМЕНЯТЬ ЯЗЫК: F2";
 help_full_text[language.english] = "Open tag filter: SPACE##Tag filters may be clicked with RMB to exclude them from searching##You can make Travellers and Fabled Sheets by clicking RMB on their filters##To make basic scripts, click RMB on basic script name filter##If there are small icons besides character icons on the main assembly screen, then these characters will have Djinn jynx##Picking Travellers and Fabled adds them to the sheet as recommended (Travellers will be added to night order too)##RMB click on experimental category to generate random script##Remove background: F5##LANGUAGE CHANGE: F2";
@@ -1835,7 +1835,7 @@ amy_order[charName.plagueDoctor] = amyOrder.triggerOncePerGame;
 
 charCode[charName.shugenja] = "shugenja"
 charIcon[charName.shugenja] = SprShugenja
-charTitle[charName.shugenja,language.russian] = "Cюгэндзя"
+charTitle[charName.shugenja,language.russian] = "Сюгэндзя"
 charDesc[charName.shugenja,language.russian] = "В начале вы знаете, с какой стороны ближайший к вам Злодей, по часовой или против часовой. Если одинаково, информация даётся по решению ведущего."
 charTitle[charName.shugenja,language.english] = "Shugenja";
 charDesc[charName.shugenja,language.english] = "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.";
@@ -1978,7 +1978,7 @@ o_night[charName.lord_of_typhoon] = 32;
 amy_order[charName.lord_of_typhoon] = amyOrder.everyNightAsterisk;
 
 charCode[charName.boffin] = "boffin"
-charIcon[charName.boffin] = SprSummoner
+charIcon[charName.boffin] = SprBoffin
 charTitle[charName.boffin,language.russian] = "Ботан"
 charDesc[charName.boffin,language.russian] = "Демон (даже если пьян или отравлен) обладает способностью Доброго персонажа, которого нет в игре. Вы оба знаете какого."
 charTitle[charName.boffin,language.english] = "Boffin";
@@ -1990,7 +1990,7 @@ o_night[charName.boffin] = 32;
 amy_order[charName.boffin] = amyOrder.passive;
 
 charCode[charName.xaan] = "xaan"
-charIcon[charName.xaan] = SprSummoner
+charIcon[charName.xaan] = SprXaan
 charTitle[charName.xaan,language.russian] = "Хаан"
 charDesc[charName.xaan,language.russian] = "В ночь X, все Горожане отравлены до заката. [X Посторонних]"
 charTitle[charName.xaan,language.english] = "Boffin";
@@ -2002,7 +2002,7 @@ o_night[charName.xaan] = 32;
 amy_order[charName.xaan] = amyOrder.passive;
 
 charCode[charName.wizard] = "wizard"
-charIcon[charName.wizard] = SprSummoner
+charIcon[charName.wizard] = SprWizard
 charTitle[charName.wizard,language.russian] = "Волшебник"
 charDesc[charName.wizard,language.russian] = "Раз в игру, загадайте желание. Если исполняется, оно может иметь цену и может оставить подсказку к своей сути."
 charTitle[charName.wizard,language.english] = "Wizard";
