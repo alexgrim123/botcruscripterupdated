@@ -2,6 +2,7 @@
 
 // load ini
 
+async_id = undefined;
 script_title = "";
 curr_lang = 0;
 background_enable = 1;
@@ -2487,7 +2488,7 @@ tag_filter_desc[2,language.russian] = "Персонажи зависящие о�
 tag_filter_name[2,language.russian] = "Позиционирование";
 tag_filter_desc[2,language.english] = "Characters, that depend on/tied with player position in circle";
 tag_filter_name[2,language.english] = "Positioning";
-tag_filter_arr[2] = scr_make_array(charName.lord_of_typhoon,charName.marionette,charName.acrobat,charName.nodashii,charName.clockmaker,charName.tealady,charName.chef,charName.empath,charName.shugenja);
+tag_filter_arr[2] = scr_make_array(charName.lord_of_typhoon,charName.marionette,charName.nodashii,charName.clockmaker,charName.tealady,charName.chef,charName.empath,charName.shugenja);
 
 tag_filter_desc[42,language.russian] = "Персонажи, получающие информацию в первую ночь, или дающие другим информацию в первую ночь";
 tag_filter_name[42,language.russian] = "Инфо в первую ночь";

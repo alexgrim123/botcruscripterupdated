@@ -15,9 +15,7 @@ if (!filter_box_open && !help_box_open) {
         clipboard_set_text("%appdata%\\BotCScripterRu_project");
     
     if !button_lock && mouse_check_button_pressed(mb_left) && mouse_area(ui_x + 650, ui_y + box_size*7 - 100, ui_x + 1200, ui_y + box_size*7 + 100) {
-        tmp_title = get_string(get_string_title[curr_lang],script_title);
-        if (tmp_title != "")
-            script_title = tmp_title
+        async_id = get_string_async(get_string_title[curr_lang],script_title);
     }
     
     if !button_lock && mouse_check_button_pressed(mb_left) && mouse_area(ui_x + 650, ui_y + box_size*9 - 100, ui_x + 1200, ui_y + box_size*9 + 100) {
